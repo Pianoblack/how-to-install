@@ -10,6 +10,6 @@ This repository created for helping you finding installation instructions of an 
 
 Please checkout our [CONTRIBUTING.md](./CONTRIBUTING.md) on ways to contribute to how-to-install.
 
-### Licence
+### License
 
-[MIT](./LICENCE) © [Murat Bastas](http://muratbt.me)
+[MIT](./LICENSE) © [Murat Bastas](http://muratbt.me)
