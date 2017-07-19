@@ -12,4 +12,4 @@ Please checkout our [CONTRIBUTING.md](./CONTRIBUTING.md) on ways to contribute t
 
 ### Licence
 
-[MIT](./LICENCE.md) © [Murat Bastas](http://muratbt.me)
+[MIT](./LICENCE) © [Murat Bastas](http://muratbt.me)
