@@ -1,6 +1,6 @@
 # 📚 How to install X on Y
 
-This repository created for helping you finding installation instructions of an application or operation system.
+This repository created for helping you finding installation instructions of software/application/language/framework/operation system and etc...
 
 ### Translations
 
